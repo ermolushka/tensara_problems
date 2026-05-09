@@ -1,3 +1,7 @@
+Here I mostly store my solutions for writing kernels. I am using triton mostly for now.
+
+Some useful triton cli commands
+
 ```
 tensara init relu -p relu -l python
 
